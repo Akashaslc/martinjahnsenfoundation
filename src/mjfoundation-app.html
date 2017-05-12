@@ -1,0 +1,46 @@
+<link rel="import" href="../bower_components/polymer/polymer.html">
+<link rel="import" href="sidebar.html">
+<link rel="import" href="main-page.html">
+<link rel="import" href="about-us.html">
+<link rel="import" href="our-campaigns.html">
+<link rel="import" href="contact-us.html">
+<link rel="import" href="footer-section.html">
+
+<dom-module id="mjfoundation-app">
+  <template>
+    <style>
+       :host {
+        display: block;
+      }
+
+    </style>
+    <side-bar></side-bar>
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+      <main-page></main-page>
+
+      <!-- One -->
+      <about-us></about-us>
+
+      <!-- Two -->
+      <our-campaigns></our-campaigns>
+
+      <!-- Three -->
+      <contact-us></contact-us>
+
+    </div>
+
+    <!-- Footer -->
+    <footer-section></footer-section>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'mjfoundation-app'
+
+    });
+
+  </script>
+</dom-module>

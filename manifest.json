@@ -1,0 +1,7 @@
+{
+  "name": "mjfoundation",
+  "short_name": "mjfoundation",
+  "description": "The Martin Jahnsen Foundation",
+  "start_url": "/",
+  "display": "standalone"
+}
