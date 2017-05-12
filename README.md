@@ -1,33 +1,5 @@
-# \<mjFoundation\>
+Website built for:
 
 The Martin Jahnsen Foundation
 
-## Install the Polymer-CLI
-
-First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
-
-## Viewing Your Application
-
-```
-$ polymer serve
-```
-
-## Building Your Application
-
-```
-$ polymer build
-```
-
-This will create builds of your application in the `build/` directory, optimized to be served in production. You can then serve the built versions by giving `polymer serve` a folder to serve from:
-
-```
-$ polymer serve build/default
-```
-
-## Running Tests
-
-```
-$ polymer test
-```
-
-Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+Although Martin Jahnsen passed away in 2009 his influence continues to be felt by those who he knew. He was a software engineer by trade, loved technology and had an equally deep love for others. The Martin Jahnsen Foundation was created to remind us of that love by providing technology to those who need it most.
