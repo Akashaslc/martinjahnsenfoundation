@@ -1,7 +1,7 @@
 {
-  "name": "mjfoundation",
+  "name": "The Martin Jahnsen Foundation",
   "short_name": "mjfoundation",
-  "description": "The Martin Jahnsen Foundation",
+  "description": "The Martin Jahnsen Foundation providing technology to those who need it most.",
   "start_url": "/",
   "display": "standalone"
 }
